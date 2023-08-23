@@ -1,0 +1,7 @@
+results/
+data/
+
+*.pyc
+.env
+kaggle.json
+.idea/
